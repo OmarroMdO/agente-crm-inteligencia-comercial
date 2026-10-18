@@ -1,0 +1,870 @@
+<PARSED TEXT FOR PAGE: 2 / 20>
+                                                                      GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                                Responsabilidad Social, Ética y Cumplimiento
+
+
+
+
+AVISO – RESPONSABILIDAD LEGAL.
+
+
+
+Este documento ha sido diseñado por el Banco de la Nación Argentina, como una iniciativa en su rol proactivo en la
+promoción de un buen gobierno corporativo y prácticas de transparencia organizacional, de acuerdo a estándares
+nacionales e internacionales.
+
+Se trata de una herramienta puesta a disposición como una buena práctica tendiente a que cualquier tipo de
+Organización, de acuerdo a su naturaleza, envergadura y complejidad de sus actividades, pueda medir y evaluar la
+eficacia de sus sistemas de Gobierno.
+
+El modelo de Guía Práctica para la Evaluación del Gobierno Corporativo ha sido elaborado por la Unidad Gestión
+Gobierno Societario de esta Entidad, considerando diversas fuentes (punto IV).
+
+Este modelo se sustenta en las regulaciones normativas, principios y estándares en la materia – nacionales e
+internacionales- , no obstante lo cual el Banco de la Nación Argentina no se responsabiliza de la utilización de este
+instrumento, ni de las consecuencias o eventuales daños que pudieren resultar directa o indirectamente del uso del
+modelo de Guía Práctica para la Evaluación del Gobierno Corporativo, ni de las interpretaciones relacionadas para la
+elaboración de informes basados en el mismo.
+
+Por otra parte se deja expresamente precisado que este “Modelo” no reviste el carácter ni la calidad de un producto
+o servicio que ofrece el Banco de la Nación Argentina, como entidad financiera, ni implica que su utilización, por
+parte de cualquier Organización, pueda determinar comprometer u obligar a la Entidad, al otorgamiento de sus
+productos, servicios o vinculación, ya sea crediticia o financiera o de cualquier índole, quedando eximido de toda
+responsabilidad en tal sentido.
+
+Su disponibilidad en la página web www.bna.com.ar se realiza estrictamente con los alcances y efectos aludidos en
+el presente Aviso.
+<PARSED TEXT FOR PAGE: 3 / 20>
+                                                    GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                              Responsabilidad Social, Ética y Cumplimiento
+
+
+
+
+                                      ÍNDICE
+
+
+
+
+I. Introducción                                                                       2
+
+
+II. Objeto y Alcance del Modelo de Guía Práctica                                      2
+
+
+III. Estructura de la Evaluación                                                      5
+
+
+1. Guía Práctica para la Evaluación del Gobierno Corporativo                          6
+
+
+2. Desarrollo de Propuestas de Cumplimiento para el tratamiento de los desvíos        14
+
+
+IV. Fuente                                                                            15
+
+
+V. Autores                                                                            15
+
+
+Glosario                                                                              16
+
+
+Abreviaturas                                                                          18
+
+
+
+
+                                         1
+<PARSED TEXT FOR PAGE: 4 / 20>
+                                                                       GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                                 Responsabilidad Social, Ética y Cumplimiento
+
+
+
+
+         I. INTRODUCCIÓN
+
+El Gobierno Corporativo es definido ampliamente como la correcta asignación de poderes y responsabilidades entre
+el Directorio, la Administración y los propietarios de una Organización. Esta definición abarca un conjunto de
+responsabilidades y actividades orientadas a establecer la dirección estratégica de la Organización, procurando el
+logro de los objetivos bajo una estructura de riesgo adecuadamente controlada y asegurando el uso responsable de
+los recursos, constituyendo un elemento clave para aumentar la eficacia económica y potenciar el crecimiento, así
+como para fomentar la confianza de sus grupos de interés (empleados, clientes, proveedores, comunidad).
+
+Las prácticas de Gobierno Corporativo fortalecen los Órganos de Dirección y Control de las Empresas, ya que resulta
+una disciplina necesaria para mantener una relación estable y productiva entre los participantes de cualquier
+Entidad. El Gobierno Corporativo, la transparencia y la rendición de cuentas son ingredientes esenciales de una
+buena gestión y un requisito para la buena salud de las Organizaciones.
+
+En la actualidad las Organizaciones han tenido que adaptarse a un complejo marco jurídico de deberes de
+cumplimiento y en ocasiones reorganizar su propia estructura interna de funcionamiento. De este modo, algunas
+Entidades tomaron la iniciativa de ir más allá del estricto cumplimiento de las leyes para adoptar voluntariamente
+medidas y prácticas que desarrollan aspectos esenciales para la creación de una cultura empresarial.
+
+El presente informe de autodiagnóstico y su posterior valoración periódica permitirán a la Organización trasladar a
+sus socios, inversores o consumidores su serio compromiso con la cultura del cumplimiento, de la transparencia y la
+integridad, generando confianza con sus principales grupos de interés.
+
+
+
+         II. OBJETO Y ALCANCE DEL MODELO DE GUÍA PRÁCTICA
+
+El propósito principal del modelo de Guía Práctica de Evaluación del Gobierno Corporativo es orientar y asistir a las
+Organizaciones en el diagnóstico y el fortalecimiento de sus políticas de cumplimiento y buenas prácticas
+corporativas teniendo en cuenta trece aspectos:
+
+    A-      Transparencia y Publicación de la Información.
+
+Los aspectos que conforman el presente punto buscan identificar instrumentos y medir políticas que garantizan el
+derecho de acceso a la información y estándares de transparencia.
+
+Una gestión transparente y datos abiertos mejoran la toma de decisiones y optimizan el funcionamiento del mercado
+de la prestación de servicios.
+
+    B-      Derecho de los Accionistas y votaciones.
+
+El indicador valora los mecanismos que rigen la participación de los accionistas en la Entidad. Los criterios expuestos
+proponen medir normas y requisitos que deben tenerse en cuenta para lograr un adecuado desarrollo de las
+reuniones del máximo órgano social y divulgar, en forma adecuada, las decisiones adoptadas y otros aspectos
+relacionados con las mismas.
+
+
+
+
+                                                          2
+<PARSED TEXT FOR PAGE: 5 / 20>
+                                                                      GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                                Responsabilidad Social, Ética y Cumplimiento
+
+    C-      Competencias del Directorio.
+
+Este punto propone medir aspectos relacionados con el Gobierno de la Entidad tales como transparencia, equidad,
+especialización e independencia. En la actualidad, los Organismos poseen una postura proactiva y se encuentran
+interesados en la búsqueda de mejores prácticas, como la valoración de sus Gobiernos Corporativos mediante un
+proceso de autodiagnóstico que garantice la eficacia del Órgano Directivo y adoptando principios y estándares en la
+materia, promoviendo una adecuada transparencia organizacional.
+
+    D-      Conformación y Funcionamiento del Órgano de Administración.
+
+Bajo este indicador se propone evaluar la idoneidad, la independencia y el funcionamiento del Órgano de
+Administración a fin de identificar aspectos positivos o negativos y obrar en consecuencia. Los resultados permiten
+inferir los comportamientos y capacidades esperables del órgano para alcanzar los resultados buscados.
+
+    E- Competencias de Órganos de Contralor y Fiscalización (Unidad de Auditoría Interna, Auditoría Externa,
+       SIGEN, B.C.R.A., C.N.V., I.G.J.).
+
+Este aspecto busca analizar el grado de independencia y objetividad respecto de los Órganos de control tanto
+externos como internos que alcanzan a la Organización. Su observancia constituye un instrumento de relevante
+importancia ante la necesidad de proteger a los accionistas contra fraudes, y pérdidas, encargándose de garantizar
+la veracidad de las actividades jurídicas y financieras de la Organización.
+
+    F-      Administración y Gestión.
+
+La evaluación de este pilar produce información acerca de la eficacia, eficiencia y planificación de los programas de
+gestión de la Organización, cabe resaltar su importancia como soporte para garantizar el buen funcionamiento de
+todas las operaciones con el fin de obtener el máximo beneficio posible.
+
+    G-      Valores y Principios de la Organización.
+
+Esta variable refiere a cómo la Organización integra un conjunto de principios éticos en la toma de decisiones, en sus
+procesos y objetivos estratégicos para todos los integrantes de la Organización. La estimación de este punto
+proporciona un marco de referencia para dimensionar el nivel deseable de compromiso e identificación de los
+integrantes con el concepto de negocio de la Empresa.
+
+    H-      Política de Prevención de Lavado de Activos.
+
+El presente indicador aborda elementos estructurales y funcionales en el marco de proporcionar una visión general
+del nivel de madurez en relación a la política de “Prevención de Lavado de Activos” con el que cuenta la Organización.
+Su medición posibilita a la Entidad conocer cómo se encuentran normadas las directrices de lavado de activos y en
+qué medida esta variable es comunicada a todos los estamentos.
+
+
+
+
+                                                           3
+<PARSED TEXT FOR PAGE: 6 / 20>
+                                                                       GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                                 Responsabilidad Social, Ética y Cumplimiento
+
+    I-      Política de Gestión Integral de Riesgos y Cumplimiento.
+
+Este punto pretende dimensionar mecanismos que faciliten el conocimiento de medidas que prevengan o mitiguen
+los riesgos a los que se encuentra sujeta la Organización. Asimismo este indicador identifica y asesora sobre los
+Riesgos de Cumplimiento en las Organizaciones, es decir, el riesgo de recibir sanciones por incumplimientos legales o
+regulatorios, sufrir pérdidas financieras o pérdidas de reputación por fallas de cumplimiento con las leyes aplicables,
+las regulaciones, los códigos de conducta y los estándares de buenas prácticas.
+
+    J-      Política de Recursos Humanos.
+
+El presente eje refiere a la manera en la que la Organización conoce, gestiona y administra el personal que compone
+su estructura, poniendo especial énfasis en su desarrollo y desempeño. La valoración de esta variable es una
+herramienta al servicio de los sistemas de gestión de recursos humanos y los resultados se pueden utilizar para
+desarrollar o mejorar los programas existentes.
+
+    K-      Política de Responsabilidad Social.
+
+Este indicador refiere a los fundamentos de Sustentabilidad que posee la Entidad en lo que concierne a la generación
+de valor acerca de su desempeño. El resultado de su evaluación sirve de marco de referencia para la definición de su
+política y sistema de gestión sustentable, el cumplimiento de los requisitos legales y reglamentarios aplicables.
+
+    L-      Política de Compras y Contrataciones.
+
+Este punto pretende valorar la eficacia de los procedimientos de Compras y Contrataciones bajo criterios de
+transparencia, sustentabilidad y competitividad. La formulación de políticas de Compras y Contrataciones, como así
+también la transparencia e integridad de los procesos son fundamentales para la calidad de la gestión.
+
+    M-      Derechos de los Usuarios.
+
+La presente variable establece parámetros de medición acerca de la estructura organizativa y los procedimientos
+implementados por la Organización para la atención, seguimiento y resolución de las consultas y/o reclamos
+interpuestos por los usuarios. El foco principal es averiguar si la Organización cuenta con estructuras y procesos
+adecuados de prevención, atenuación y reparación ante los impactos negativos que producen o pueden producir en
+los usuarios sus bienes y/o servicios.
+
+
+
+
+                                                          4
+<PARSED TEXT FOR PAGE: 7 / 20>
+                                                                     GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                               Responsabilidad Social, Ética y Cumplimiento
+
+       III. ESTRUCTURA DE LA EVALUACIÓN
+
+
+
+El presente modelo de Guía permite a la propia Organización llevar a cabo un autodiagnóstico y reporte basado en
+una serie de indicadores mensurados en el criterio “cumple /no cumple” (PUNTO 1).
+
+Una vez que la Organización haya llevado a cabo su Evaluación podrá conocer su grado de cumplimiento en cada
+aspecto y formular propuestas/ recomendaciones para el tratamiento de los desvíos encontrados y así también
+estimar plazos de implementación para optimizar la gestión (PUNTO 2).
+
+Se recomienda que la Evaluación se realice con una periodicidad anual para garantizar la eficacia de los sistemas de
+gobierno y dependerá de la voluntad de la Dirección compartir públicamente los resultados.
+
+A efectos de brindar una interpretación uniforme de los distintos conceptos que conforman el presente trabajo se
+han incluido en “Glosario” la definición de Gobierno Corporativo y una breve descripción de los conceptos mínimos
+considerados en la Guía.
+
+
+
+
+                                                         5
+<PARSED TEXT FOR PAGE: 8 / 20>
+                                                              GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                        Responsabilidad Social, Ética y Cumplimiento
+
+  1) GUÍA PRÁCTICA PARA LA EVALUACIÓN DEL GOBIERNO CORPORATIVO.
+
+A- Transparencia y Publicación de la Información.                                     No
+                                                                           Cumple             Ref.
+                                                                                    Cumple
+Aspectos a Considerar.
+Existen políticas que garanticen el funcionamiento coordinado de la
+Entidad con sus Sociedades Controladas en el relacionamiento de
+aspectos vinculados a Gobierno Corporativo, Gestión de Riesgos,
+Prevención del Lavado de Activos, fraude, etc.
+Existe un sitio web donde se difunde información relevante para los
+grupos de interés, redactada de manera clara y sencilla para no
+especialistas en finanzas.
+Se encuentra disponible publicidad de la Entidad acerca de información
+relativa a su desempeño (financiero y no financiero) y Gobierno
+Corporativo.
+Se encuentran publicados en la web los Estados Contables (versión
+actual y anterior).
+Se publica la composición del Directorio con información acerca de cada
+uno de sus miembros.
+Se publica información sobre la trayectoria de los miembros del
+Directorio que integran la Entidad.
+Se publican en la página web las normas de creación de la Entidad,
+atribución de responsabilidades, funciones, y objeto social.
+Se encuentra disponible el Organigrama para consulta de grupos de
+interés.
+Se publica información relevante en otros sitios web pertenecientes a
+Organismos de Contralor (ej. Regímenes Informativos exigidos por el
+B.C.R.A., C.N.V.).
+
+B-Derecho de los Accionistas y votaciones.                                            No
+                                                                           Cumple             Ref.
+                                                                                    Cumple
+Aspectos a Considerar.
+La Entidad recibe instrucciones de accionistas sobre objetivos
+financieros, estructura del capital, y análisis de riesgos.
+Existen reglas relativas a la distribución de dividendos.
+Si la Entidad tuviera participación accionaria minoritaria, poseen los
+accionistas minoritarios los mismos derechos accionarios que los
+accionistas mayoritarios.
+La Entidad ofrece consideraciones especiales al accionista minoritario
+(Ej.: ocupar roles relevantes en Comités o una declaración de protección
+del accionista)
+Se encuentran los accionistas minoritarios autorizados a votar en la
+Asamblea de Accionistas.
+Existe participación de los accionistas minoritarios en el proceso de
+designación de los miembros del Directorio.
+Existen en la Entidad “acciones de oro” y/u otro mecanismo de control
+de las decisiones más allá de su poder de voto (resultado de su
+participación accionaria)
+                                                    6
+<PARSED TEXT FOR PAGE: 9 / 20>
+                                                                GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                          Responsabilidad Social, Ética y Cumplimiento
+
+
+
+
+C- Competencias del Directorio.                                                         No
+                                                                             Cumple             Ref.
+                                                                                      Cumple
+Aspectos a Considerar.
+Existe un procedimiento para la designación de Presidente,
+Vicepresidente y Directores.
+Se encuentran definidas las funciones y responsabilidades del
+Directorio.
+Existe separación de personas entre el Presidente, Directorio y el
+Gerente General de la Entidad.
+El Directorio estableció Códigos de Conducta y de Disciplina.
+El Directorio es responsable de vigilar el sistema de remuneraciones de
+toda la Entidad.
+El Directorio verificó que cada uno de sus miembros que actúa en
+diferentes Comisiones/ Comités no concentre una inadecuada
+acumulación de funciones.
+El Directorio verificó que los Directores que integran el Comité de
+Auditoría sean independientes y que ejecuten mecanismos de
+celebración de debate y votación que se inspiren en los principios de
+Transparencia.
+El Directorio estableció un adecuado procedimiento de reuniones
+fijando frecuencia, fechas y mecanismos de información para todos sus
+miembros.
+El Directorio estableció mecanismos que generen información rápida,
+precisa y veraz a las partes interesadas, mercados, etc., en especial
+cuando se trate del patrimonio de la Organización o modificaciones de
+los procedimientos de administración de activos.
+Existe asesoramiento a miembros del Directorio en materia de
+responsabilidades legales.
+Los Directores llevan adelante una Autoevaluación de la gestión y
+funcionamiento del Órgano de Administración.
+
+
+D- Conformación y Funcionamiento del Órgano de Administración.                          No
+                                                                             Cumple             Ref.
+                                                                                      Cumple
+Aspectos a Considerar.
+Existen Reglamentos que regulen la conformación y funcionamiento del
+Órgano de Administración.
+Existe normativa de aplicación a los Miembros de los Órganos de
+Administración que: a) Describa sus responsabilidades; b) Especifique la
+obligación de informar los intereses personales que pudieran
+representar un conflicto de interés; c) Defina si quien preside el Órgano
+de Administración debe reunir la calidad de independiente; d)
+Especifique si deben reunir requisitos de idoneidad; e) Detalle principios
+y estándares de Conducta.
+Existen disposiciones generales de evaluación previa de antecedentes
+para los miembros del Directorio.
+                                                    7
+<PARSED TEXT FOR PAGE: 10 / 20>
+                                                              GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                        Responsabilidad Social, Ética y Cumplimiento
+
+Se encuentra definida una apropiada proporción de integrantes
+independientes en la composición del Órgano de Administración.
+Se encuentran definidos planes de capacitación para los integrantes del
+Órgano de Administración.
+Existe designación por parte del Directorio del Gerente General de la
+Entidad.
+Se han conformado los Comités que exigen los Organismos de Contralor
+(B.C.R.A., U.I.F., C.N.V.).
+Se han conformado Comisiones para el tratamiento de temas
+específicos.
+Se cuenta con Reglamentos que regulen el funcionamiento de los
+Comités/ Comisiones.
+
+
+E- Competencias de Órganos de Contralor y Fiscalización (Unidad de                    No
+                                                                           Cumple             Ref.
+Auditoría Interna, Auditoría Externa, SIGEN, B.C.R.A., C.N.V., I.G.J.).             Cumple
+Aspectos a Considerar.
+La Entidad se encuentra sujeta a controles por parte de Organismos de
+Contralor y Fiscalización Externos e Independientes.
+Se garantiza la independencia y transparencia de las funciones que le
+son encomendadas al Comité de Auditoría y al Auditor Externo.
+La Entidad cuenta con una Política de rotación obligatoria de firmas de
+Auditoría Externa.
+El Directorio y el Comité de Auditoría establecieron procedimientos para
+observar situaciones que puedan suponer un riesgo a la independencia
+de los Auditores Externos.
+Existe un Área independiente (Auditoría Interna) que tiene como
+función evaluar periódicamente el cumplimiento y desempeño del resto
+de las Áreas, y la confiabilidad de la información por ellas generadas.
+Se cuenta con un planeamiento anual y un plan de trabajo de las
+Auditorías Interna y Externa adecuadamente aprobado por el Comité de
+Auditoría o el Órgano de Administración.
+Se efectúa un seguimiento de la resolución de las observaciones
+identificadas por Auditoría Interna y Externa y Órganos de Contralor.
+Existen reportes sobre la evaluación del grado de control interno en la
+Organización.
+La información relevada por las Unidades de control interno/
+fiscalización contiene manifestaciones sobre la eficacia de los sistemas
+de administración de riesgos y la opinión del Comité de Auditoría.
+
+
+
+
+                                                   8
+<PARSED TEXT FOR PAGE: 11 / 20>
+                                                                GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                          Responsabilidad Social, Ética y Cumplimiento
+
+F- Administración y Gestión.                                                           No
+                                                                            Cumple              Ref.
+                                                                                     Cumple
+Aspectos a Considerar.
+Se encuentran definidos y aprobados por el Directorio los Objetivos
+Estratégicos de la Organización.
+Los objetivos establecidos son cuantificables y medibles en el tiempo.
+Existe un Plan de Negocio acorde con los Objetivos Estratégicos.
+Se encuentran identificados los factores de éxito y establecidos los
+objetivos que se esperan alcanzar para cada período.
+Se encuentran definidos los objetivos a cumplir por cada una de las
+Áreas de la Organización y por línea de negocio.
+Se reporta al Directorio el estado de cumplimiento de dichos
+objetivos en tiempo oportuno.
+Se monitorea y comunica en forma oportuna el estado de
+cumplimiento del Plan de Negocio.
+El modelo para la medición del grado de cumplimiento de los objetivos
+es integral y sistemático.
+En el Plan de Negocio, se encuentran contemplados los objetivos, la
+estrategia de riesgos, y la participación de los grupos de interés.
+Existe un programa de control de la Alta Gerencia y de la elaboración
+de programas de remuneraciones e incentivos al personal.
+Están individualizados los responsables de preparar la información
+financiera y no financiera dentro de la Organización.
+Existe desarrollo por parte de la Entidad de vínculos institucionales con
+actores no gubernamentales (asociaciones de usuarios, proveedores,
+etc.).
+Existen procedimientos de supervisión que garanticen la integridad,
+exactitud y oportunidad de las revelaciones de información financiera y
+no financiera significativas, incluidas las operaciones con vinculados.
+
+
+G-Valores y Principios de la Organización.                                             No
+                                                                            Cumple            Ref.
+                                                                                     Cumple
+Aspectos a Considerar.
+Existe una política de Gobierno Corporativo aprobada por el
+Directorio.
+Existe un Código de Ética aprobado por el Directorio.
+El Código de Gobierno Corporativo fomenta la inclusión de las
+previsiones que hacen a las prácticas de buen gobierno.
+Existe un Comité de Ética integrado con mayoría de Directores
+Independientes.
+Existen estrategias de capacitación específicas en materia de ética y
+transparencia.
+Existe un procedimiento escrito para la resolución de conflictos de
+interés.
+Existe formalizada una política y se cuenta con un registro de
+obsequios.
+Los empleados de ingreso toman conocimiento, al momento de su
+                                                    9
+<PARSED TEXT FOR PAGE: 12 / 20>
+                                                               GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                         Responsabilidad Social, Ética y Cumplimiento
+
+incorporación, del Estatuto del Personal y/ o pautas de conducta
+esperables dentro de la Organización.
+Los empleados de ingreso firman al momento de su incorporación el
+Código de Ética.
+Existe capacitación (talleres o coaching) referentes a la conducta que
+se espera de cada integrante de la Organización.
+Existe implementado un procedimiento de sanciones para aquellos
+integrantes que no cumplieron con el Estatuto del Personal y Código
+de Ética.
+
+
+H- Política de Prevención de Lavado de Activos.                                      No
+                                                                          Cumple             Ref.
+                                                                                   Cumple
+Aspectos a Considerar.
+Se encuentra la Institución sujeta a leyes Nacionales e Internacionales
+diseñadas para prevenir el lavado de activos y financiamiento de
+terrorismo.
+Existe una política escrita, controles y procedimientos diseñados para
+prevenir y detectar el lavado de activos/ actividades de financiamiento
+de terrorismo.
+Se cuenta con una política clara y lineamientos internos,
+procedimientos y controles para establecer y mantener relaciones de
+negocios con PEP´s (Personas Políticamente Expuestas).
+Existe un oficial designado el cual es responsable del programa de
+Prevención de Lavado de Activos y Financiamiento del Terrorismo.
+Se llevan a cabo Auditorías y/ o procedimientos internos de
+cumplimiento para la Prevención de Lavado de Activos.
+Los Directores y Responsables máximos de las Unidades tienen
+conocimiento de sus obligaciones de acuerdo a las regulaciones de
+Prevención de Lavado de Activos.
+Todos los Empleados reciben entrenamiento de Prevención de Lavado
+de Activos regularmente.
+Todos los miembros de la Organización cuentan con conocimiento
+amplio de las políticas y procedimientos para reportar transacciones
+consideradas inusuales/ sospechosas.
+
+
+I- Política de Gestión Integral de Riesgos y Cumplimiento.                           No
+                                                                          Cumple             Ref.
+                                                                                   Cumple
+Aspectos a Considerar.
+Existen políticas de Gestión Integral de Riesgos, de control interno, y
+de prevención de fraudes aprobadas por el Directorio.
+Las políticas de Gestión Integral de Riesgos son actualizadas
+permanentemente conforme a las recomendaciones y metodologías
+reconocidas en la materia.
+Se encuentra definida y aprobada la Estrategia de Riesgos por parte del
+Directorio.
+Existe un Área cuya función es planificar y controlar los riesgos
+comerciales, el recupero de créditos y la evaluación de la clientela,
+                                                   10
+<PARSED TEXT FOR PAGE: 13 / 20>
+                                                               GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                         Responsabilidad Social, Ética y Cumplimiento
+
+minimizando las pérdidas patrimoniales y supervisando el recupero
+administrativo.
+Se elaboran planes para mitigar los riesgos identificados.
+Se encuentran definidos y aprobados por el Directorio los niveles de
+tolerancia al riesgo.
+Existe un proceso de gestión de riesgos formalmente establecido.
+La Dirección ha aprobado una política de Cumplimiento.
+Se encuentra garantizada la independencia respecto de la función de
+Cumplimiento.
+Existen funciones/ Responsables designados por Directorio para velar
+por cumplimiento normativo en la Entidad.
+La Organización evalúa el desempeño de la Unidad de Cumplimiento y
+la eficacia de su sistema de gestión.
+El Responsable de Cumplimiento reporta la información
+oportunamente a los Organismos correspondientes.
+La política de cumplimiento está complementada con procedimientos
+y procesos operacionales.
+
+
+J-Política de Recursos Humanos.                                                       No
+                                                                           Cumple             Ref.
+                                                                                    Cumple
+Aspectos a Considerar.
+Existe un proceso de reclutamiento y selección de personal
+transparente y efectivo.
+La Dirección aprueba el Plan de Capacitación Institucional, diferenciado
+según programas específicos para toda la Organización.
+Existen herramientas para evaluar el conocimiento que tienen los
+miembros de la Organización de la normativa regulatoria.
+Se cuenta con una política de Recursos Humanos que evalúe el
+desempeño del personal a través de la calificación de habilidades
+individuales.
+Existe una política de incentivos económicos al personal como
+instrumento de impulso para el cumplimiento de las metas
+comerciales.
+La Organización cuenta con definiciones de perfiles, niveles de
+capacitación requeridos y determinación de objetivos para cada
+puesto.
+Se han identificado todos los recursos con los que cuenta la
+Organización para asegurar el cumplimiento de sus objetivos.
+Existen convenios con Instituciones Universitarias que contemplen el
+Ingreso de Personal a través de Pasantías Educativas.
+Se ha evaluado la suficiencia de recursos o planificado su adquisición.
+
+
+
+
+                                                   11
+<PARSED TEXT FOR PAGE: 14 / 20>
+                                                                 GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                           Responsabilidad Social, Ética y Cumplimiento
+
+K-Política de Responsabilidad Social.                                                   No
+                                                                             Cumple               Ref.
+                                                                                      Cumple
+Aspectos a Considerar.
+La Dirección ha aprobado una política de Responsabilidad Social.
+El Directorio considera que el modelo de gestión de la Institución se
+orienta a la Responsabilidad Social.
+La Organización generó un Informe de su gestión ambiental, social y
+económica en base a criterios y procedimientos aceptados
+internacionalmente.
+Existe una proporción razonable respecto del porcentaje de mujeres y
+hombres empleados en la Organización.
+La Entidad apoya actividades sociales en la comunidad.
+La Organización ha establecido y mantiene procedimientos apropiados
+para evaluar y seleccionar a contratistas y proveedores teniendo en
+cuenta criterios ambientales, laborales y sociales.
+La Entidad solicita a sus clientes la presentación de una política escrita
+y aprobada por la Alta Gerencia de la gestión ambiental, laboral y
+social de sus operaciones.
+La Entidad proporciona una capacitación apropiada al personal sobre la
+seguridad de los empleados y planes de evacuación.
+La Entidad posee planes y procedimientos de emergencia para
+responder ante accidentes y/ o situaciones de incidentes (originados
+en sus instalaciones) tales como incendios, explosiones, etc.
+La Entidad brinda un seguro contra accidentes y enfermedades a sus
+empleados.
+La Entidad ha adherido a algún compromiso voluntario y/o iniciativa en
+materia ética, social y/o ambiental.
+La Entidad realiza estudios de impacto socioambiental y los considera
+en su planeamiento estratégico.
+La Entidad posee líneas de productos y servicios con atributos de
+sustentabilidad.
+
+
+L-Política de Compras y Contrataciones.                                      Cumple   No Cumple    Ref.
+Aspectos a Considerar.
+Existen formalizados procedimientos de Compras y Contrataciones.
+Existen mecanismos de difusión (ej. Pág. web, diarios, etc.) fácilmente
+accesibles para el público en general de compras y licitaciones,
+identificadas por rubros y con un resumen del pliego de condiciones.
+Existe un sistema informatizado que permita llevar el debido control
+sobre los proveedores del Organismo.
+Existen procedimientos de difusión de acceso público donde se
+expongan los resultados de las adjudicaciones/ adquisiciones
+realizadas, con un detalle de las cantidades y precios abonados.
+Los procedimientos de contratación y licitación, resultan apropiados a
+fin de que los proveedores potenciales dispongan de tiempo suficiente
+para preparar y presentar sus ofertas.
+Existen procedimientos que reglamenten las cuestiones relativas a
+                                                     12
+<PARSED TEXT FOR PAGE: 15 / 20>
+                                                                 GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                           Responsabilidad Social, Ética y Cumplimiento
+
+conflictos de interés en compras y contrataciones.
+Los proveedores de bienes y/o servicios interesados cuentan con
+simple acceso a requisitos y formularios de inscripción.
+Existen procedimientos accesibles para dirimir potenciales
+impugnaciones que surjan en el proceso de compras y contrataciones.
+Existe una carta de intención o documento donde el Organismo y los
+oferentes se comprometen a reportar cualquier situación irregular.
+Se prioriza el impacto que la compra/ contratación puede tener en la
+economía, el ambiente y la sociedad, el aspecto ambiental de los
+bienes y servicios a adquirir, sus efectos en el consumo de energía y
+agua potable, la minimización de los residuos, las condiciones en que
+se desarrolla el trabajo incorporado, entre las variables de principal
+consideración.
+
+
+M-Derechos de los Usuarios.                                                 Cumple   No Cumple   Ref.
+Aspectos a Considerar.
+Existen definidos procedimientos para la atención, seguimiento y
+respuesta de las consultas y reclamos interpuestos por los usuarios.
+La Organización cuenta con una oficina y persona responsable de
+atender las consultas y los reclamos de los usuarios, relacionados con
+los servicios que ofrecen y/o prestan.
+Existen diversos canales habilitados (telefónico, sucursal, correo, mail,
+web, etc.) para la recepción y atención de consultas y reclamos.
+El Directorio toma conocimiento de los reclamos interpuestos por los
+usuarios.
+Los circuitos de atención al usuario contemplan la atención diferencial
+para los grupos vulnerables (personas con movilidad reducida,
+jubilados, embarazadas, etc.).
+Se publica en la página web toda información de interés para los
+usuarios tales como comisiones, cargos, tasas de interés y costo
+financiero total de la totalidad de los productos y/o servicios.
+Los usuarios reciben información adecuada y veraz acerca de los
+términos y condiciones de los servicios que contraten, así como copia
+de los instrumentos que suscriban.
+Existen procedimientos para resguardar la integridad y confiabilidad de
+la información de los clientes.
+
+
+
+
+                                                    13
+<PARSED TEXT FOR PAGE: 16 / 20>
+                                                    GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                              Responsabilidad Social, Ética y Cumplimiento
+
+  2) DESARROLLO DE PROPUESTAS DE CUMPLIMIENTO PARA EL TRATAMIENTO DE LOS
+     DESVÍOS Y ESTIMACION DE PLAZOS DE IMPLEMENTACIÓN PARA OPTIMIZAR LA
+     GESTIÓN.
+
+
+
+
+                                                                 Plazo estimado de
+Ref.   Aspectos      Propuesta /Acción        Área Responsable
+                                                                  Implementación
+
+
+
+
+                                         14
+<PARSED TEXT FOR PAGE: 17 / 20>
+                                                            GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                      Responsabilidad Social, Ética y Cumplimiento
+
+IV. FUENTE:
+
+-Examen de la OCDE (Organización para la Cooperación y el Desarrollo Económicos) sobre el
+  Gobierno Corporativo de las Empresas Públicas.
+-Comité de Supervisión Bancaria de Basilea. Principios de Gobierno Corporativo para Bancos.
+- Metodología para la Evaluación de los Sistemas de Compras Públicas (OCDE V.2016).
+-ISO 19.600 Políticas de Compliance.
+-ISO 20.400 Estándar para Compras Sostenibles.
+-ISO 37.001 Sistemas de Gestión Antisoborno.
+-Indicadores ETHOS- IARSE/ PLARSE.
+-CIPPEC (Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento).
+-Ley 25.188. Ética en el Ejercicio de la Función Pública.
+-Resolución General N° 606/12 C.N.V.
+-Resolución Nº 1107/2014. Procuración General de la Nación. Reglamento de Compras y
+  Contrataciones del Ministerio Publico Fiscal de la Nación.
+-Decreto N° 202/2017 – Estado Nacional. Conflicto de Interés. Procedimiento.
+-Decreto 1179/2016. Registro de obsequios y viajes – Régimen de Obsequios a Funcionarios
+  Públicos.
+-Texto Ordenado Protección de los Usuarios de Servicios Financieros B.C.R.A.
+-Encuesta del CAF Banco de Desarrollo de Latinoamérica.
+-Encuesta de la Iniciativa Financiera del PNUMA (Prog. de Naciones Unidas - Medio Ambiente).
+-Comisión de Auditoría Interna y Gobierno Corporativo. Consejo Profesional de Ciencias
+  Económicas de la Ciudad Autónoma de Buenos Aires.
+-Poder Ciudadano. Transparencia y Control Social en las Contrataciones Públicas.
+
+
+ V. AUTORES:
+
+ Este trabajo fue elaborado por el Equipo de la Unidad “Responsabilidad Social, Ética y
+ Cumplimiento” - Gestión Gobierno Societario:
+
+ Belmonte, Cosme Juan Carlos;
+
+ Deus, Christian Walter;
+
+ Carrillo, Analía Victoria;
+
+ Al Nabulsi, Selma Yamina;
+
+ Rodoni, Lorena;
+
+ Tagliavacche, Luciano.
+
+
+
+
+                                                15
+<PARSED TEXT FOR PAGE: 18 / 20>
+                                                                  GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                            Responsabilidad Social, Ética y Cumplimiento
+
+
+                                               GLOSARIO
+
+
+Accionista Mayoritario: Es aquel que posee el mayor paquete de acciones dentro de una compañía. Se
+puede ser accionista mayoritario con el 20 % de las acciones o cualquier otro porcentaje, no siendo
+necesario disponer del 51 % del capital.
+
+Accionista Minoritario: Son aquellos que no disponen del mayor paquete de acciones de la sociedad
+donde han invertido.
+
+Accionistas: Titulares de acciones emitidas por la empresa.
+
+Auditoría Externa: Supervisión realizada por Auditores Externos para dar una opinión imparcial y objetiva
+de la situación patrimonial de la empresa, es necesario que no posean ningún interés personal en los
+estados contables.
+
+Auditoría Interna: Es una actividad independiente y objetiva de aseguramiento y consulta, concebida para
+agregar valor y mejorar las operaciones de una Organización. Ayuda a una Organización a cumplir sus
+objetivos aportando un enfoque sistemático y disciplinado para evaluar y mejorar la eficacia de los
+procesos de gestión de riesgos, control y gobierno.
+
+Auditoría: Es una serie de métodos de investigación y análisis con el objetivo de producir la revisión y
+evaluación profunda de la gestión efectuada.
+
+Código de Ética: Es un documento desarrollado y aprobado por las Organizaciones para definir el curso de
+acción a seguir en situaciones específicas o potencialmente delicadas.
+
+Comités: Comisiones integradas por miembros del Directorio creadas para asistirlo en el análisis de
+asuntos específicos, fuera de las reuniones ordinarias celebradas por el Directorio.
+
+Conflicto de Interés: Ocurre cuando una persona o grupo no tiene una postura independiente respecto del
+asunto tratado y puede influenciar o tomar decisiones motivada por intereses que podrían diferir de los de
+la Organización.
+
+Cumplimiento: Observar y adherirse a Normas y Reglamentos. En general, cumplimiento significa ajustarse
+a una especificación o política (interna o externa), norma o Ley que ha sido claramente definida.
+
+Directorio: Conjunto de individuos elegidos por los accionistas de una Organización para que definan la
+visión y la misión corporativa, fijen estrategias, objetivos a largo plazo y supervisen la administración de la
+misma.
+
+
+
+
+                                                      16
+<PARSED TEXT FOR PAGE: 19 / 20>
+                                                                 GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                           Responsabilidad Social, Ética y Cumplimiento
+
+
+
+
+Estatuto: Documento escrito que contiene el Reglamento Interno de la Organización aprobado por el
+Directorio o los accionistas. Regula aspectos como la elección de Directores, la transferencia de acciones y
+las obligaciones de los Funcionarios o Autoridades.
+
+Gestión de Riesgos: Proceso para analizar la exposición a riesgos y determinar el mejor enfoque para que
+la Entidad pueda enfrentarlos adecuadamente. La Gestión Integral de Riesgos comprende la administración
+de las actividades relacionadas con la articulación de los procesos necesarios para gestionar los riesgos
+financieros y de mercado, el riesgo operacional y la gestión del riesgo estratégico y reputacional.
+
+Grupos de interés (Stakeholder, en inglés): Persona u Organización que posee un interés legítimo sobre un
+proyecto o empresa. En un sentido más amplio, se refiere a proveedores, acreedores, clientes, empleados
+y a la comunidad local. Todas las partes afectadas por las actividades y acciones de la Organización.
+
+Gobierno Corporativo: Es un sistema por medio del cual las Entidades son conducidas de manera tal que
+sea posible garantizar la salvaguarda de los intereses de sus accionistas y otros grupos de interés.
+
+Lavado de Activos: Proceso en virtud del cual los activos obtenidos o generados a través de actividades
+delictivas se transfieren o encubren, a fin de darles apariencia lícita.
+
+Órganos de Contralor: Entidades cuya finalidad es promover, en la medida de sus facultades y en el marco
+de las políticas establecidas por el gobierno nacional, el marco regulatorio para el funcionamiento y control
+de determinados sectores de la economía, tales como el sector financiero, mercado de capitales, etc.
+
+Órgano de Administración: Es el encargado de todas las acciones llevadas a cabo por la Sociedad o
+Empresa enfocadas a alcanzar el objetivo social de dicha empresa (tanto de forma directa como de forma
+indirecta).
+
+Responsabilidad Social: Compromiso que asume una Organización ante los impactos que sus decisiones y
+actividades ocasionan en la sociedad y el ambiente mediante un comportamiento ético y transparente
+que: contribuya al desarrollo sostenible, incluyendo la salud y el bienestar de la sociedad; tome en
+consideración las expectativas de sus partes interesadas; cumpla con la legislación aplicable y sea
+coherente con la normativa internacional de comportamiento y esté integrada en toda la Organización y se
+lleve a la práctica en sus relaciones.
+
+Sociedades Controladas: Una Sociedad será controlada cuando su poder de decisión se encuentre
+sometido a la voluntad de otra u otras personas que serán su matriz o controlante.
+
+Transparencia: Principio de Gobierno Corporativo de publicar y divulgar información pertinente sobre los
+intereses de los accionistas.
+
+
+
+
+                                                     17
+<PARSED TEXT FOR PAGE: 20 / 20>
+                                                                GOBIERNO, RIESGO Y CUMPLIMIENTO
+                                                          Responsabilidad Social, Ética y Cumplimiento
+
+
+                                           ABREVIATURAS
+B.C.R.A.: Banco Central de la República Argentina.
+
+C.N.V: Comisión Nacional de Valores.
+
+I.G.J: Inspección General de Justicia.
+
+P.E.P: Personas Expuesta Políticamente.
+
+SIGEN: Sindicatura General de la Nación.
+
+U.I.F: Unidad de Información Financiera.
+
+
+
+
+                                                     18
